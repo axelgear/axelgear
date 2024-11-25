@@ -31,24 +31,5 @@ Here are some ideas to get you started:
   <img style="width:53%" src="https://github-readme-stats.vercel.app/api?username=axelgear&count_private=true&show_icons=true&theme=radical" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelgear&layout=compact&theme=radical"/>
 </a>
-------
-💖 If you like what I do, maybe consider buying me a coffee/tea 🥺 👉 <a href="https://youdoc.github.io/wechat.jpg" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a> OR <a href="https://youdoc.github.io/alipay.jpg" target="_blank"><img alt="alipay" src="https://img.shields.io/badge/Alipay%20-%233379f6.svg?logo=alipay&logoColor=white"></a> 👈
-------
-📘 **Novel open source projects**
-<!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
-<a target="_blank" href="https://github.com/axelgear/novel.git" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelgear&repo=novel&theme=nightowl&cache_seconds=1802" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://github.com/axelgear/novel-front-web.git" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelgear&repo=novel-front-web&theme=nightowl" />
-</a>
-<br/>
-<br/>
-<a target="_blank" href="https://github.com/axelgear/novel-plus.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelgear&repo=novel-plus&theme=nightowl&cache_seconds=1802" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://github.com/axelgear/novel-cloud.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelgear&repo=novel-cloud&theme=nightowl" />
-</a>
+
+
