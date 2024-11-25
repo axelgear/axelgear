@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://visitor-badge.glitch.me/badge?page_id=axelgear.novel" alt="visitors">
 </p>
 <br/>
-🎉 **Welcome to my GitHub profile!**
+
 <a href="https://github.com/axelgear">
   <img style="width:53%" src="https://github-readme-stats.vercel.app/api?username=axelgear&count_private=true&show_icons=true&theme=radical" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelgear&layout=compact&theme=radical"/>
