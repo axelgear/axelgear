@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203%20-%232b3847.svg?logo=vue.js">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=axelgear.novel" alt="visitors">
+    
 </p>
 <br/>
 
