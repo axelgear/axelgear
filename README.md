@@ -14,9 +14,7 @@ Here are some ideas to get you started:
     Hi~ Thank you for coming, Welcome to follow me!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Now+java+developer;Target+full-stack+developer;Always+learning+new+things">
-</p>
+
 <p align="center">
     <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203%20-%232b3847.svg?logo=vue.js">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
